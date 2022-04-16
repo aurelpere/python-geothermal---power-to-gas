@@ -1,5 +1,4 @@
-[![Test-Lint-Format](https://github.com/aurelpere/python-planif/actions/workflows/main.yml/badge.svg)](https://github.com/aurelpere/python-planif/actions/workflows/main.yml) ![test-coverage badge](./coverage-badge.svg) [![Maintainability](https://api.codeclimate.com/v1/badges/737c2dcaa384fb64bbbe/maintainability)](https://codeclimate.com/github/aurelpere/python-planif/maintainability)
-
+[![Test-Lint-Format](https://github.com/aurelpere/python-geothermal---power-to-gas/actions/workflows/main.yml/badge.svg)](https://github.com/aurelpere/python-geothermal---power-to-gas/actions/workflows/main.yml) ![test-coverage badge](./coverage-badge.svg) [![Maintainability](https://api.codeclimate.com/v1/badges/14bdcf57c519925c3870/maintainability)](https://codeclimate.com/github/aurelpere/python-geothermal---power-to-gas/maintainability)
 # planif
 
 This is two python scripts using openstreertmap data and ocsge data
